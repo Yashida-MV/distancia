@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: rgba(218, 95, 167, 0.562);
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#parte-resultado {
+    display: none; 
+    margin-top: 40px;
+}
+
+#tarjeta-blanca {
+    background-color: #f0efef;          
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
